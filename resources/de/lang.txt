@@ -1,2 +1,2 @@
-message.login=Ich habe den Chat betreten! :)
-message.version={{product}} {{version}} von {{author}}
+message.join=Ich habe den Chat betreten! :)
+message.info={{product}} {{version}} von {{author}}
