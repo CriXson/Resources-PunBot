@@ -13,6 +13,7 @@ All possible options for <b>[setup]</b> are listed here:
 [setup]   |Description
 ----------|-------------
 de        |German language
+en		  |English language
 ... More coming soon!
 
 ## What commands does PunBot have and how can I use them?
