@@ -1,4 +1,8 @@
 # PunBot
+
+### <b>WARNING!</b>
+<b>PunBot is currently being developed and still work in progress! PunBot might not be available by now or has an an extrem amount of down-time. However, if you like PunBot, please check back later. This message will be removed when PunBot is consistantly running!</b>
+
 ## What is PunBot?
 PunBot is a bot for Twitch.tv and Hitbox.tv streams. It prints a random pun every know and then to your chat to make everyone laugh and enjoy their stay even more!
 
